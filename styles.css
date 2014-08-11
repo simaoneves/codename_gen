@@ -1,0 +1,27 @@
+/* Colors: https://kuler.adobe.com/Continental-Drop-color-theme-4179508/edit/?copy=true&base=2&rule=Custom&selected=0&name=Copy%20of%20Continental%20Drop&mode=rgb&rgbvalues=0.00784313725490196,0.19607843137254902,0.2901960784313726,0.0392156862745098,0.38823529411764707,0.44313725490196076,0.2823529411764706,0.6392156862745098,0.596078431372549,0.5568627450980392,0.7333333333333333,0.6470588235294118,0.803921568627451,0.7450980392156863,0.6431372549019608&swatchOrder=0,1,2,3,4
+*/
+
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	background-color: #0A6371;
+}
+
+.wrapper {
+	height: 100%;
+	width: 1024px;
+	margin: 0 auto;
+	padding: 40px;
+	text-align: center;
+	background-color: #CDBEA4;
+}
+
+h1 {
+	color: #02324A;
+}
+
+h2 {
+	color: #0A6371;
+}

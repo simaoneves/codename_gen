@@ -4,7 +4,7 @@ require_once 'functions.php';
 
 $prefix = $names[$_POST['prefix']];
 $postfix = $names[$_POST['postfix']];
-$letter = getLetter(rand(0, 4));
+$letter = getLetter(rand(0, 7));
 
 $finalPrefix = getName($prefix, $letter);
 $finalPostfix = getName($postfix, $letter);

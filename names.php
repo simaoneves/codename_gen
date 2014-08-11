@@ -44,7 +44,28 @@ $names = array(
 			0 => "Eager",
 			1 => "Emphasizing",
 			2 => "Eccentric",
-			3 => "Embarrassed"
+			3 => "Embarrassed",
+			4 => "Explosive"
+		),
+		"f" => array(
+			0 => "Frisky",
+			1 => "Fabulous",
+			2 => "Fantastic",
+			3 => "Friendly"
+		),
+		"g" => array(
+			0 => "Genuine",
+			1 => "Goofy",
+			2 => "Graceful",
+			3 => "Guilty"
+		),
+		"h" => array(
+			0 => "Heroic",
+			1 => "Hairy",
+			2 => "Harmful",
+			3 => "Homesick",
+			4 => "Humorous",
+			5 => "Hysterical"
 		)
 	),
 
@@ -75,6 +96,25 @@ $names = array(
 			1 => "Eclair",
 			2 => "Espresso",
 			3 => "Eggplant"
+		),
+		"f" => array(
+			0 => "Fries",
+			1 => "Fondue",
+			2 => "Falafel",
+			3 => "Fig"
+		),
+		"g" => array(
+			0 => "Garlic",
+			1 => "Ganache",
+			2 => "Gelatin",
+			3 => "Gnocchi"
+		),
+		"h" => array(
+			0 => "Hamburguer",
+			1 => "Ham",
+			2 => "Hazelnut",
+			3 => "Honey",
+			4 => "Hummus"
 		)
 	)
 );
