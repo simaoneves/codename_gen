@@ -76,6 +76,11 @@ $names = array(
 			5 => "Indiferrent",
 			6 => "Irrelevant",
 			7 => "Introspective",
+		),
+		"j" => array(
+			0 => "Jobless",
+			1 => "Jovial",
+			2 => "Joyful"
 		)
 	),
 
@@ -130,6 +135,11 @@ $names = array(
 		),
 		"i" => array(
 			0 => "Ice Cream"
+		),
+		"j" => array(
+			0 => "Jam",
+			1 => "Jelly",
+			2 => "Jalapeno"
 		)
 	)
 );

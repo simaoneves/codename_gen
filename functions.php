@@ -5,6 +5,23 @@ function getName($whichArray, $letter) {
 	return $name[rand(0,count($name) - 1)];
 }
 
+function getNumCombinations($prefix, $postfix) {
+	global $prefix;
+	$num1 = 0;
+	$num2 = 0;
+	foreach ($prefix as $letter) {
+		foreach ($letter as $combo) {
+			$num1++;
+		}
+	}
+	foreach ($postfix as $letter) {
+		foreach ($letter as $combo) {
+			$num2++;
+		}
+	}
+	return $num1 * $num2;
+}
+
 function getLetter($num) {
 	$letter= '';
 	switch($num) {

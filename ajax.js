@@ -4,7 +4,8 @@ $(document).ready(function(){
 		
 		var options = {
 			prefix: $('#prefix').val(),
-			postfix: $('#postfix').val()
+			postfix: $('#postfix').val(),
+			sameLetter: $("#sameLetter:checked").length ? 1 : 0
 		}
 
 		console.log(options);
