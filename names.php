@@ -66,14 +66,26 @@ $names = array(
 			3 => "Homesick",
 			4 => "Humorous",
 			5 => "Hysterical"
+		),
+		"i" => array(
+			0 => "Irrational",
+			1 => "Ichy",
+			2 => "Immature",
+			3 => "Impolite",
+			4 => "Impractical",
+			5 => "Indiferrent",
+			6 => "Irrelevant",
+			7 => "Introspective",
 		)
 	),
 
 	'foods' => array(
 		"a" => array(
 			0 => "Avocado",
-			1 => "Acai",
-			2 => "Apricot"
+			1 => "Asparagus",
+			2 => "Apricot",
+			3 => "Almonds",
+			4 => "Apples"
 		),
 		"b" => array(
 			0 => "Banana",
@@ -115,6 +127,9 @@ $names = array(
 			2 => "Hazelnut",
 			3 => "Honey",
 			4 => "Hummus"
+		),
+		"i" => array(
+			0 => "Ice Cream"
 		)
 	)
 );
