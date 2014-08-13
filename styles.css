@@ -25,3 +25,22 @@ h1 {
 h2 {
 	color: #0A6371;
 }
+
+select {
+	border-radius: 0px;
+	width: 200px;
+	background-color: #8EBBA5;
+	font-size: 14px;
+	color: #02324A;
+	border: 0px;
+}
+
+#generate {
+	background-color: #8EBBA5;
+	font-size: 14px;
+	font-weight: bold;
+	color: #02324A;
+	outline: none;
+	border: 0px;
+	padding: 10px;
+}

@@ -5,7 +5,7 @@ $(document).ready(function(){
 		var options = {
 			prefix: $('#prefix').val(),
 			postfix: $('#postfix').val(),
-			sameLetter: $("#sameLetter:checked").length ? 1 : 0
+			sameLetter: $("#sameLetter:checked").length
 		}
 
 		console.log(options);
@@ -18,7 +18,7 @@ $(document).ready(function(){
 				console.log(data);
 				
 				var new_name = '';
-				$.each(data, function(i, name) {
+				$.each(data, function(index, name) {
 					new_name = new_name + name + ' ';
 				});
 				$('.new_name').html(new_name);

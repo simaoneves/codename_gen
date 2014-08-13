@@ -81,6 +81,12 @@ $names = array(
 			0 => "Jobless",
 			1 => "Jovial",
 			2 => "Joyful"
+		),
+		"k" => array(
+			0 => "Kissable",
+			1 => "Kinky",
+			2 => "Knowledgeable",
+			3 => "Kindhearted"
 		)
 	),
 
@@ -140,6 +146,11 @@ $names = array(
 			0 => "Jam",
 			1 => "Jelly",
 			2 => "Jalapeno"
+		),
+		"k" => array(
+			0 => "Kebab",
+			1 => "Kiwi",
+			2 => "Ketchup"
 		)
 	)
 );
