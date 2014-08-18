@@ -2,6 +2,7 @@ $(document).ready(function(){
 
 	$('#generate').on('click', function() {
 		
+		// Get options from form
 		var options = {
 			prefix: $('#prefix').val(),
 			postfix: $('#postfix').val(),
@@ -10,6 +11,7 @@ $(document).ready(function(){
 
 		console.log(options);
 
+		// Ajax call to get new name
 		$.ajax({
 			type: 'POST',
 			url: 'create_codename.php',

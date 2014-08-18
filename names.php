@@ -9,7 +9,8 @@ Adjectives
 
 Postfix:
 ===========
-Food
+Foods
+Animals
 
 */
 $names = array(
@@ -87,9 +88,16 @@ $names = array(
 			1 => "Kinky",
 			2 => "Knowledgeable",
 			3 => "Kindhearted"
+		),
+		"l" => array(
+			0 => "Loyal",
+			1 => "Limitless",
+			2 => "laughable",
+			3 => "Lazy",
+			4 => "Logical",
+			5 => "Lucky"
 		)
 	),
-
 	'foods' => array(
 		"a" => array(
 			0 => "Avocado",
@@ -151,6 +159,91 @@ $names = array(
 			0 => "Kebab",
 			1 => "Kiwi",
 			2 => "Ketchup"
+		),
+		"l" => array(
+			0 => "Lasagne",
+			1 => "Leek",
+			2 => "Lemon",
+			3 => "Lettuce",
+			4 => "Lobster",
+			5 => "Lollipop"
+		)
+	),
+	'animals' => array(
+		"a" => array(
+			0 => "Alligator",
+			1 => "Ant",
+			2 => "Antelope",
+			3 => "Awkward"
+		),
+		"b" => array(
+			0 => "Baboon",
+			1 => "Barracuda",
+			2 => "Bear",
+			3 => "Bison",
+			4 => "Buffalo",
+			5 => "Butterfly"
+		),
+		"c" => array(
+			0 => "Camel",
+			1 => "Caterpillar",
+			2 => "Cheetah",
+			3 => "Chameleon",
+			4 => "Chinchilla",
+			5 => "Crocodile",
+		),
+		"d" => array(
+			0 => "Deer",
+			1 => "Dingo",
+			2 => "Dodo",
+			3 => "Dolphin",
+			4 => "Duck",
+			5 => "Dragon"
+		),
+		"e" => array(
+			0 => "Eagle",
+			1 => "Elephant"
+		),
+		"f" => array(
+			0 => "Falcon",
+			1 => "Flamingo",
+			2 => "Fox",
+			3 => "Frog"
+		),
+		"g" => array(
+			0 => "Gibbon",
+			1 => "Giraffe",
+			2 => "Goat",
+			3 => "Goose",
+			4 => "Gorilla",
+			5 => "Grasshopper"
+		),
+		"h" => array(
+			0 => "Hamster",
+			1 => "Hedgedog",
+			2 => "Hippopotamus",
+			3 => "Hummingbird"
+		),
+		"i" => array(
+			0 => "Iguana",
+			1 => "Insect"
+		),
+		"j" => array(
+			0 => "Jackal",
+			1 => "Jaguar",
+			2 => "Jellyfish"
+		),
+		"k" => array(
+			0 => "Kangaroo",
+			1 => "Koala"
+		),
+		"l" => array(
+			0 => "Ladybird",
+			1 => "Lemur",
+			2 => "Leopard",
+			3 => "Lion",
+			4 => "Lobster",
+			5 => "Lynx"
 		)
 	)
 );
