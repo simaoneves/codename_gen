@@ -92,10 +92,17 @@ $names = array(
 		"l" => array(
 			0 => "Loyal",
 			1 => "Limitless",
-			2 => "laughable",
+			2 => "Laughable",
 			3 => "Lazy",
 			4 => "Logical",
 			5 => "Lucky"
+		),
+		"m" => array(
+			0 => "Medieval",
+			1 => "Moaning",
+			2 => "Molten",
+			3 => "Mysterious",
+			4 => "Mythical"
 		)
 	),
 	'foods' => array(
@@ -167,14 +174,21 @@ $names = array(
 			3 => "Lettuce",
 			4 => "Lobster",
 			5 => "Lollipop"
+		),
+		"m" => array(
+			0 => "Mango",
+			1 => "Margarine",
+			2 => "Marmelade",
+			3 => "Marshmallow",
+			4 => "Muffin",
+			5 => "Mushroom"
 		)
 	),
 	'animals' => array(
 		"a" => array(
 			0 => "Alligator",
 			1 => "Ant",
-			2 => "Antelope",
-			3 => "Awkward"
+			2 => "Antelope"
 		),
 		"b" => array(
 			0 => "Baboon",
@@ -244,6 +258,14 @@ $names = array(
 			3 => "Lion",
 			4 => "Lobster",
 			5 => "Lynx"
+		),
+		"m" => array(
+			0 => "Magpie",
+			1 => "Mole",
+			2 => "Mongrel",
+			3 => "Moose",
+			4 => "Mule",
+			5 => "Manta"
 		)
 	)
 );
